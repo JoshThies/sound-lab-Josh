@@ -1,0 +1,1 @@
+I'm honestly just happy that I got it working at all after a gajillion errors that did not seem to want to go away. This is just the basic pitch changing button MIDI.
